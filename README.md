@@ -30,7 +30,7 @@ Print all possible sizes of the bus in an increasing order.
 
 ```
 8
-3 2 1 1 1 2 1 1
+1 2 1 1 1 2 1 3
 ```
 ### Sample Output
 
